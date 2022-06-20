@@ -9,17 +9,23 @@ The System for National Identification (SNID) is to be used to manage informatio
  - Search a database of persons to locate matching data based on Identification #, (National Id, or other id), demographics, or biometrics
 
 ## Class Diagram
+This application was implemented using object oriented programming.
 
 ![alt text](/img/class.jpg "Class diagram")
 
 ## Architecture diagram
-This application was organized using the layered architecture
+The layered architecture was used to organise the application.
 
 ![alt text](/img/architecture.jpg "Architecture diagram")
 
 ## Installation
 Requirements:
- - Java
+ - Java Development kit (JDK). Available [here](https://www.oracle.com/java/technologies/downloads/#jdk18-windows) 
 
 ## Running
+ - Open command prompt and navigate to the bin folder
+   - example `cd Downloads\comp1161-final-project\bin`
+ - Execute the Main.class file
+   - example `java Main`
+ -  Enter 1 for the text based user interface, or 2 for the graphical user interface
 
