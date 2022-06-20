@@ -30,7 +30,7 @@ Requirements:
  -  Enter 1 for the text based user interface, or 2 for the graphical user interface
   
 ## Sreenshots
-<div style="display:flex; flex-direction:row; gap:40px;">
+<div style="display:flex; flex-direction:row; gap:9em;">
 <img src="/img/textui.jpg" width="500" height="auto">
 <img src="/img/gui.jpg" width="500" height="auto">
 <img src="/img/search.jpg" width="500" height="auto">
